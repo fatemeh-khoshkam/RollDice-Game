@@ -7,10 +7,10 @@ This is a funny game that has some rules 🎯:
 3. if you hold your score => switch players 🔁
 <br>
 
+you can see demo here 👉 https://khoshkam-roll-dice-game.netlify.app/
+
 ## Logic of game is like this image
 <img width="800" src="https://user-images.githubusercontent.com/30217552/185778625-3d36c4c8-a699-4779-8de5-6506d34ae0e5.png">
-
-you can see demo here 👉 https://khoshkam-roll-dice-game.netlify.app/
 
 ## Technologies :hammer:
 <br>
